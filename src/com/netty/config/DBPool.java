@@ -20,15 +20,15 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 
 public class DBPool {
 	private static ComboPooledDataSource dataSource = null;
-	public static String Mysql_Url = "122.224.6.159:3306";
-	private static String Mysql_User = "tigeradmin";// ibm
-	private static String Mysql_PW = "9+9+9+9ooo";// fuckibm+1
+	public static String Mysql_Url = "";
+	private static String Mysql_User = "";// 
+	private static String Mysql_PW = "";// 
 
 	private static Vector<Integer> nowConnection = FactoryUtil.newVector();
 
 	private static Vector<Integer> leisureConnection = FactoryUtil.newVector();
 
-	private static String Mysql_DBName = "tiger";
+	private static String Mysql_DBName = "abc";
 
 	private static final int maxConnection = 150;
 	private static final int minConnection = 30;
