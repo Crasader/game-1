@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <dburl>127.0.0.1:3306</dburl>
+    <user>root</user>
+    <pass>qsdyitjy</pass>
+    <dbname>tiger</dbname>
+</root>

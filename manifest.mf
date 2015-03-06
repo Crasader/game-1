@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.2
+Created-By: 1.4.2-b28 (Sun Microsystems Inc.)
+Build-Version: 0.0.6
+Build-Date: 2014/09/19 13:37:08
+Main-Class: com.system.main.RunServer
+Class-Path: ../lib/netty-3.5.4.Final.jar ../lib/commons-codec-1.6.jar.jar ../lib/commons-collections-3.2.1.jar ../lib/commons-logging-1.1.1.jar ../lib/commons-pool.jar ../lib/jedis-2.1.0.jar ../lib/netty-3.6.5.Final.jar ../lib/protobuf-java-2.4.1.jar ../lib/slf4j-api-1.6.1.jar ../lib/slf4j-log4j12-1.6.2.jar ../lib/spring-aspects.jar ../lib/spring.jar ../lib/mysql-connector-java-5.0.5.jar ../lib/log4j-1.2.15.jar ../lib/c3p0-0.9.1.2.jar ../lib/dom4j-1.6.1.jar ../lib/gson-2.1.jar

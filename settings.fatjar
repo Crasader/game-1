@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jul 21 00:06:12 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=GameTiger.jar
+manifest.mergeall=true
+manifest.mainclass=com.system.main.RunServer
+manifest.file=manifest.mf
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|commons-collections-3.2.1.jar>;<jar|commons-logging-1.1.1.jar>;<jar|commons-pool.jar>;<jar|jedis-2.1.0.jar>;<jar|log4j-1.2.15.jar>;<jar|mysql-connector-java-5.0.5.jar>;<jar|slf4j-api-1.6.1.jar>;<jar|slf4j-log4j12-1.6.2.jar>;<jar|spring-aspects.jar>;<jar|spring.jar>;<jar|dom4j-1.6.1.jar>;<jar|gson-2.1.jar>;<jar|commons-codec-1.6.jar>;<jar|c3p0-0.9.1.2.jar>;<jar|org-json.jar>;<jar|netty-3.6.5.Final.jar>;<jar|protobuf-java-2.4.1.jar>
+includes=

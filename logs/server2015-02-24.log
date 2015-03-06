@@ -1,0 +1,66 @@
+2015-02-24 22:37:01,413 INFO com.mchange.v2.log.MLog - MLog clients using log4j logging.
+2015-02-24 22:37:01,819 INFO com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2015-02-24 22:37:01,905 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:37:01,983 INFO com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 15, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> true, checkoutTimeout -> 5000, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> tiger, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgekg3971g62qhv1mb1zsp|41cb0ed6, idleConnectionTestPeriod -> 60, initialPoolSize -> 75, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/tiger?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 150, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 25, numHelperThreads -> 10, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2015-02-24 22:37:11,811 INFO com.common.util.Log - 读取机器人发言策略： 0
+2015-02-24 22:37:23,006 INFO com.mchange.v2.log.MLog - MLog clients using log4j logging.
+2015-02-24 22:37:23,350 INFO com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2015-02-24 22:37:23,428 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:37:23,490 INFO com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 15, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> true, checkoutTimeout -> 5000, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> tiger, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgekg3971g637591w9nz4c|41cb0ed6, idleConnectionTestPeriod -> 60, initialPoolSize -> 75, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/tiger?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 150, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 25, numHelperThreads -> 10, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2015-02-24 22:37:23,819 INFO com.common.util.Log - 读取机器人发言策略： 0
+2015-02-24 22:39:18,849 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:39:44,941 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:39:45,269 INFO com.mchange.v2.log.MLog - MLog clients using log4j logging.
+2015-02-24 22:39:45,394 INFO com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2015-02-24 22:39:45,535 INFO com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 15, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> true, checkoutTimeout -> 5000, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> tiger, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgekg3971g668wkj1kct2|16c701cb, idleConnectionTestPeriod -> 60, initialPoolSize -> 75, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/tiger?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 150, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 25, numHelperThreads -> 10, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2015-02-24 22:39:46,312 INFO com.common.util.Log - 读取机器人发言策略： 0
+2015-02-24 22:39:46,403 INFO com.common.util.Log - server start: 1010
+2015-02-24 22:39:47,755 INFO com.common.util.Log - 加入 AI 29
+2015-02-24 22:40:01,003 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:40:01,347 INFO com.mchange.v2.log.MLog - MLog clients using log4j logging.
+2015-02-24 22:40:01,440 INFO com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2015-02-24 22:40:01,555 INFO com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 15, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> true, checkoutTimeout -> 5000, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> tiger, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgekg3971g66lb61khhj9d|37b2fdc6, idleConnectionTestPeriod -> 60, initialPoolSize -> 75, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/tiger?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 150, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 25, numHelperThreads -> 10, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2015-02-24 22:40:02,287 INFO com.common.util.Log - 读取机器人发言策略： 0
+2015-02-24 22:40:02,453 INFO com.common.util.Log - server start: 1010
+2015-02-24 22:40:03,448 INFO com.common.util.Log - 加入 AI 25
+2015-02-24 22:40:08,490 INFO com.common.util.Log - 读取机器人名字： 330
+2015-02-24 22:40:08,818 INFO com.mchange.v2.log.MLog - MLog clients using log4j logging.
+2015-02-24 22:40:08,896 INFO com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2015-02-24 22:40:09,006 INFO com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 15, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> true, checkoutTimeout -> 5000, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> tiger, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgekg3971g66r2a1dd87uz|37b2fdc6, idleConnectionTestPeriod -> 60, initialPoolSize -> 75, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/tiger?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 150, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 25, numHelperThreads -> 10, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2015-02-24 22:40:09,697 INFO com.common.util.Log - 读取机器人发言策略： 0
+2015-02-24 22:40:09,906 INFO com.common.util.Log - server start: 1010
+2015-02-24 22:40:09,931 INFO com.common.util.Log - server start: 843
+2015-02-24 22:40:10,826 INFO com.common.util.Log - 加入 AI 22
+2015-02-24 22:40:41,892 INFO com.common.util.Log - 房间： 低倍场 期数: 1 type: 0 index: [7] hid: [9] bei: 0.0 在线人数： 22 22:40:41
+2015-02-24 22:41:35,917 INFO com.common.util.Log - 房间： 低倍场 期数: 2 type: 0 index: [3] hid: [8] bei: 0.0 在线人数： 22 22:41:35
+2015-02-24 22:42:29,769 INFO com.common.util.Log - 房间： 低倍场 期数: 3 type: 5 index: [5] hid: [5] bei: 31.0 在线人数： 22 22:42:29
+2015-02-24 22:43:23,121 INFO com.common.util.Log - 房间： 低倍场 期数: 4 type: 5 index: [5] hid: [5] bei: 60.0 在线人数： 22 22:43:23
+2015-02-24 22:44:16,764 INFO com.common.util.Log - 房间： 低倍场 期数: 5 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 22:44:16
+2015-02-24 22:45:10,292 INFO com.common.util.Log - 房间： 低倍场 期数: 6 type: 0 index: [18] hid: [8] bei: 0.0 在线人数： 22 22:45:10
+2015-02-24 22:46:04,028 INFO com.common.util.Log - 房间： 低倍场 期数: 7 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 22:46:04
+2015-02-24 22:46:57,517 INFO com.common.util.Log - 房间： 低倍场 期数: 8 type: 5 index: [5] hid: [5] bei: 82.0 在线人数： 22 22:46:57
+2015-02-24 22:47:51,186 INFO com.common.util.Log - 房间： 低倍场 期数: 9 type: 5 index: [5] hid: [5] bei: 71.0 在线人数： 22 22:47:51
+2015-02-24 22:48:44,851 INFO com.common.util.Log - 房间： 低倍场 期数: 10 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 22:48:44
+2015-02-24 22:49:38,312 INFO com.common.util.Log - 房间： 低倍场 期数: 11 type: 0 index: [18] hid: [8] bei: 0.0 在线人数： 22 22:49:38
+2015-02-24 22:50:32,281 INFO com.common.util.Log - 房间： 低倍场 期数: 12 type: 0 index: [19] hid: [9] bei: 0.0 在线人数： 22 22:50:32
+2015-02-24 22:51:26,084 INFO com.common.util.Log - 房间： 低倍场 期数: 13 type: 0 index: [2] hid: [7] bei: 0.0 在线人数： 22 22:51:26
+2015-02-24 22:52:19,551 INFO com.common.util.Log - 房间： 低倍场 期数: 14 type: 0 index: [7] hid: [9] bei: 0.0 在线人数： 22 22:52:19
+2015-02-24 22:53:13,282 INFO com.common.util.Log - 房间： 低倍场 期数: 15 type: 0 index: [3] hid: [8] bei: 0.0 在线人数： 22 22:53:13
+2015-02-24 22:54:07,009 INFO com.common.util.Log - 房间： 低倍场 期数: 16 type: 2 index: [18] hid: [8] bei: 2.0 在线人数： 22 22:54:07
+2015-02-24 22:55:16,026 INFO com.common.util.Log - 房间： 低倍场 期数: 17 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 22:55:16
+2015-02-24 22:56:09,483 INFO com.common.util.Log - 房间： 低倍场 期数: 18 type: 0 index: [2] hid: [7] bei: 0.0 在线人数： 22 22:56:09
+2015-02-24 22:57:03,269 INFO com.common.util.Log - 房间： 低倍场 期数: 19 type: 0 index: [1] hid: [9] bei: 0.0 在线人数： 22 22:57:03
+2015-02-24 22:57:56,966 INFO com.common.util.Log - 房间： 低倍场 期数: 20 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 22:57:56
+2015-02-24 22:58:50,452 INFO com.common.util.Log - 房间： 低倍场 期数: 21 type: 0 index: [19] hid: [9] bei: 0.0 在线人数： 22 22:58:50
+2015-02-24 22:59:44,341 INFO com.common.util.Log - 房间： 低倍场 期数: 22 type: 0 index: [13] hid: [9] bei: 0.0 在线人数： 22 22:59:44
+2015-02-24 23:00:38,534 INFO com.common.util.Log - 房间： 低倍场 期数: 23 type: 0 index: [18] hid: [8] bei: 0.0 在线人数： 22 23:00:38
+2015-02-24 23:01:32,360 INFO com.common.util.Log - 房间： 低倍场 期数: 24 type: 5 index: [5] hid: [5] bei: 90.0 在线人数： 22 23:01:32
+2015-02-24 23:02:26,293 INFO com.common.util.Log - 房间： 低倍场 期数: 25 type: 0 index: [2] hid: [7] bei: 0.0 在线人数： 22 23:02:26
+2015-02-24 23:03:20,223 INFO com.common.util.Log - 房间： 低倍场 期数: 26 type: 5 index: [5] hid: [5] bei: 65.0 在线人数： 22 23:03:20
+2015-02-24 23:04:14,342 INFO com.common.util.Log - 房间： 低倍场 期数: 27 type: 0 index: [1] hid: [9] bei: 0.0 在线人数： 22 23:04:14
+2015-02-24 23:05:08,540 INFO com.common.util.Log - 房间： 低倍场 期数: 28 type: 0 index: [3] hid: [8] bei: 0.0 在线人数： 22 23:05:08
+2015-02-24 23:06:01,850 INFO com.common.util.Log - 房间： 低倍场 期数: 29 type: 0 index: [14] hid: [7] bei: 0.0 在线人数： 22 23:06:01
+2015-02-24 23:06:55,456 INFO com.common.util.Log - 房间： 低倍场 期数: 30 type: 0 index: [15] hid: [8] bei: 0.0 在线人数： 22 23:06:55
+2015-02-24 23:07:49,169 INFO com.common.util.Log - 房间： 低倍场 期数: 31 type: 0 index: [1] hid: [9] bei: 0.0 在线人数： 22 23:07:49
+2015-02-24 23:08:42,768 INFO com.common.util.Log - 房间： 低倍场 期数: 32 type: 0 index: [19] hid: [9] bei: 0.0 在线人数： 22 23:08:42
+2015-02-24 23:09:36,526 INFO com.common.util.Log - 房间： 低倍场 期数: 33 type: 0 index: [13] hid: [9] bei: 0.0 在线人数： 22 23:09:36
